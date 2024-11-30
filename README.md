@@ -9,3 +9,8 @@ LinkedList
 -> removeLast method
 
 -> removeFirst method
+
+-> get method
+
+-> set method
+
