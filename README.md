@@ -14,3 +14,9 @@ LinkedList
 
 -> set method
 
+-> insertion (at different locations)
+
+->deletion  (from different locations)
+
+-> reversing the List
+
