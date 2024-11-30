@@ -1,3 +1,6 @@
 # Data-Structure-and-Algorithms
 
-LinkedList
+LinkedList 
+-> printing List
+
+-> Append method
